@@ -2,26 +2,39 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main]           # pakai 'master' jika repo Anda masih master
+  workflow_dispatch:           # agar bisa dipicu manual
 
 permissions:
   contents: read
   pages: write
-  id-token: write
+  id-token: write              # WAJIB untuk deploy-pages
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # 1) Checkout code + sub-module tema
       - uses: actions/checkout@v4
         with:
           submodules: recursive
-      - uses: actions/setup-hugo@v3
+          fetch-depth: 0
+
+      # 2) Install Hugo Extended
+      - uses: peaceiris/actions-hugo@v3
         with:
+          hugo-version: '0.148.0'   # samakan dgn versi lokal Anda
           extended: true
-      - run: hugo --gc --minify
+
+      # 3) Build site
+      - name: Build site
+        run: hugo --gc --minify
+
+      # 4) Upload artefak 'public' ke Pages
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - uses: actions/deploy-pages@v4
 
+      # 5) Deploy
+      - uses: actions/deploy-pages@v4
