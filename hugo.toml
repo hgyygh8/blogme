@@ -1,0 +1,5 @@
+baseURL      = "https://hgyygh8.github.io/blogme/"
+title        = "Blog Me"
+theme        = "hugo-narrow"
+languageCode = "id-ID"
+
