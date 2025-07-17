@@ -1,6 +1,6 @@
 ---
-title: "DASAR-DASAR LINUX"
-date: 2025-01-01T10:00:00+08:00
+title: "Linux Fundamentals"
+date: 2025-05-02T10:00:00+08:00
 slug: pengenalan-linux-c1
 draft: false
 description: "DASAR- DASAR LINUX -Pengenalan Linux chapter 1"
