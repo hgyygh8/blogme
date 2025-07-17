@@ -14,6 +14,8 @@ Linux adalah sistem operasi yang fenomenal dan mengagumkan. Hampir semua perangk
 
 Blog ini merupakan pengantar bagi Anda yang ingin mulai menggunakan Linux. Blog ini sebenarnya dikhususkan untuk Anda yang ingin menggeluti dunia networking (jaringan). Meskipun demikian, sebagian besar dari blog ini dapat digunakan bagi Anda yang ingin menggeluti dunia programming berbasiskan Linux. Bukankah kedua bidang ilmu tersebut menggunakan pondasi yang sama, pondasi yang menggunakan Linux sebagai sistem operasinya.
 
+Dan sebelum jauh membaca bab-bab teknis tentang bagaimana menggunakan Linux, ada baiknya Anda mengetahui tentang Linux itu sendiri. Pengetahuan tentang komponen sistem operasi Linux, fitur, maupun sejarah dari Linux itu sendiri penting untuk diketahui. Begitu pula dengan kontroversi yang mengiringi proses kelahiran Linux. Kesemuanya merupakan hal-hal kecil yang sebenarnya sangat penting.
+
 ## 提示框语法
 
 ### 注意提示框
