@@ -1,11 +1,11 @@
 ---
-title: "GitHub TESTTTTT风格提示框测试"
-date: 2025-06-01T10:00:00+08:00
-slug: test-alert
+title: "DASAR-DASAR LINUX"
+date: 2025-01-01T10:00:00+08:00
+slug: pengenalan-linux-c1
 draft: false
-description: "测试 GitHub 风格提示框和折叠功能"
-tags: ["测试", "提示框", "markdown"]
-categories: ["Github"]
+description: "DASAR- DASAR LINUX -Pengenalan Linux chapter 1"
+tags: ["belajar linux", "chapter 1", "os"]
+categories: ["Linux"]
 ---
 
 # GitHub 风格提示框测试
