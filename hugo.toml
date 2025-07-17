@@ -1,5 +1,6 @@
-baseURL      = "https://hgyygh8.github.io/blogme/"
+baseURL      = "https://blog.raykram.me"
 title        = "Blog Me"
 theme        = "hugo-narrow"
 languageCode = "id-ID"
+canonifyURLs = true
 
