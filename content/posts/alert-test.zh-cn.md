@@ -10,16 +10,7 @@ categories: ["Linux"]
 
 # Introduction to Linux (Pengenalan Linux)
 
-Linux adalah sistem operasi yang fenomenal dan mengagumkan. 
-Hampir semua perangkat teknologi informasi saat ini dijalankan 
-dengan menggunakan sistem operasi Linux. Begitu juga dengan 
-infrastruktur teknologi informasi, sistem informasi, web site, database 
-bahkan handphone beserta aplikasinya, juga melibatkan sistem 
-operasi yang satu ini. Ini melahirkan sebuah pesan penting bagi Anda 
-yang ingin menggeluti dunia teknologi informasi, wajib menguasai 
-Linux, baik yang ingin menggeluti dunia networking maupun yang 
-ingin menggeluti dunia programming, apakah itu programming web 
-maupun programming mobile.
+Linux adalah sistem operasi yang fenomenal dan mengagumkan. Hampir semua perangkat teknologi informasi saat ini dijalankan dengan menggunakan sistem operasi Linux. Begitu juga dengan infrastruktur teknologi informasi, sistem informasi, web site, database bahkan handphone beserta aplikasinya, juga melibatkan sistem operasi yang satu ini. Ini melahirkan sebuah pesan penting bagi Anda yang ingin menggeluti dunia teknologi informasi, wajib menguasai Linux, baik yang ingin menggeluti dunia networking maupun yang ingin menggeluti dunia programming, apakah itu programming web maupun programming mobile.
 
 ## 提示框语法
 
