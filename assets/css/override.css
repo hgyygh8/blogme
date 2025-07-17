@@ -1,11 +1,11 @@
 /* assets/css/override.css */
 
 /* ukuran font dasar seluruh situs */
-html { font-size: 18px; }          /* ubah 18 → 17 / 20 dll. */
+html { font-size: 17px; }          /* ubah 18 → 17 / 20 dll. */
 
 /* heading */
-h1 { font-size: 2.2rem; }          /* ~39 px */
-h2 { font-size: 1.8rem; }          /* ~32 px */
+h1 { font-size: 39px; }          /* ~39 px */
+h2 { font-size: 39px; }          /* ~32 px */
 
 /* jarak baris lebih lega */
 p, li { line-height: 1.75; }
