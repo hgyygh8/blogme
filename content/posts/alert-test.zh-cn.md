@@ -1,7 +1,7 @@
 ---
 title: "Linux Fundamentals"
 date: 2025-05-1
-slug: pengenalan-linux-C000.1
+slug: pengenalan-linux-C0001
 draft: false
 description: "Linux Fundamentals-Pengenalan Linux chapter 1"
 tags: ["belajar linux", "chapter 1", "os"]
