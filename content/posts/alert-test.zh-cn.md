@@ -12,6 +12,8 @@ categories: ["Linux"]
 
 Linux adalah sistem operasi yang fenomenal dan mengagumkan. Hampir semua perangkat teknologi informasi saat ini dijalankan dengan menggunakan sistem operasi Linux. Begitu juga dengan infrastruktur teknologi informasi, sistem informasi, web site, database bahkan handphone beserta aplikasinya, juga melibatkan sistem operasi yang satu ini. Ini melahirkan sebuah pesan penting bagi Anda yang ingin menggeluti dunia teknologi informasi, wajib menguasai Linux, baik yang ingin menggeluti dunia networking maupun yang ingin menggeluti dunia programming, apakah itu programming web maupun programming mobile.
 
+Blog ini merupakan pengantar bagi Anda yang ingin mulai menggunakan Linux. Blog ini sebenarnya dikhususkan untuk Anda yang ingin menggeluti dunia networking (jaringan). Meskipun demikian, sebagian besar dari blog ini dapat digunakan bagi Anda yang ingin menggeluti dunia programming berbasiskan Linux. Bukankah kedua bidang ilmu tersebut menggunakan pondasi yang sama, pondasi yang menggunakan Linux sebagai sistem operasinya.
+
 ## 提示框语法
 
 ### 注意提示框
