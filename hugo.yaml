@@ -77,7 +77,7 @@ menus:
         icon: archive
 
 
-  # footer menu
+  footer menu
   footer:
     - name: About
       pageRef: /about
@@ -95,7 +95,7 @@ menus:
       params:
         icon: rss
 
-  # footer social link
+  footer social link
   social:
     - name: GitHub
       url: https://github.com/username
@@ -129,10 +129,10 @@ params:
   - "/images/og-default.avif"
 
   logo:
-    image: "/images/logo.svg"  # Logo path rel to static folder, leave empty use site title and primary color
+    image: "https://raykram.me/icon.jpeg"  # Logo path rel to static folder, leave empty use site title and primary color
     link: "/"                  # click to home page
   favicon:
-    svg: "/favicon.svg"        # SVG format favicon (recommended)
+    svg: "https://raykram.me/icon.jpeg"        # SVG format favicon (recommended)
 
 
   author:
@@ -159,7 +159,7 @@ params:
   # Header sticky effect
   stickyHeader: true  # Set to true to enable sticky navigation bar
 
-  # default color scheme
+  default color scheme
   colorScheme: "default"
   themes:
     default:
