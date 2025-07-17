@@ -3,14 +3,23 @@ title: "Linux Fundamentals"
 date: 2025-05-02T10:00:00+08:00
 slug: pengenalan-linux-c1
 draft: false
-description: "DASAR- DASAR LINUX -Pengenalan Linux chapter 1"
+description: "Linux Fundamentals-Pengenalan Linux chapter 1"
 tags: ["belajar linux", "chapter 1", "os"]
 categories: ["Linux"]
 ---
 
-# GitHub 风格提示框测试
+# Introduction to Linux (Pengenalan Linux)
 
-本文用于测试新的 GitHub 风格提示框功能和折叠功能。
+Linux adalah sistem operasi yang fenomenal dan mengagumkan. 
+Hampir semua perangkat teknologi informasi saat ini dijalankan 
+dengan menggunakan sistem operasi Linux. Begitu juga dengan 
+infrastruktur teknologi informasi, sistem informasi, web site, database 
+bahkan handphone beserta aplikasinya, juga melibatkan sistem 
+operasi yang satu ini. Ini melahirkan sebuah pesan penting bagi Anda 
+yang ingin menggeluti dunia teknologi informasi, wajib menguasai 
+Linux, baik yang ingin menggeluti dunia networking maupun yang 
+ingin menggeluti dunia programming, apakah itu programming web 
+maupun programming mobile.
 
 ## 提示框语法
 
